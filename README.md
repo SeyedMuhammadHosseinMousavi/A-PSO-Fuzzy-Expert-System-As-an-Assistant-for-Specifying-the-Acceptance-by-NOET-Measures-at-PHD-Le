@@ -1,2 +1,3 @@
-# A-PSO-Fuzzy-Expert-System-As-an-Assistant-for-Specifying-the-Acceptance-by-NOET-Measures-at-PHD-Le
-A PSO Fuzzy-Expert System: As an Assistant for Specifying the Acceptance by NOET Measures, at PHD Level
+#
+Please Cite:
+Mousavi, Seyed Muhammad Hossein, et al. "A PSO fuzzy-expert system: As an assistant for specifying the acceptance by NOET measures, at PH. D level." 2017 Artificial Intelligence and Signal Processing Conference (AISP). IEEE, 2017.
