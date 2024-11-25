@@ -1,13 +1,14 @@
-#
-Please Cite:
-Mousavi, Seyed Muhammad Hossein, et al. "A PSO fuzzy-expert system: As an assistant for specifying the acceptance by NOET measures, at PH. D level." 2017 Artificial Intelligence and Signal Processing Conference (AISP). IEEE, 2017.
+# A PSO fuzzy-expert system: As an assistant for specifying the acceptance by NOET measures, at PH. D level
+
+- Link to the paper:
+- https://ieeexplore.ieee.org/abstract/document/8324116
+- Please Cite:
+- Mousavi, Seyed Muhammad Hossein, et al. "A PSO fuzzy-expert system: As an assistant for specifying the acceptance by NOET measures, at PH. D level." 2017 Artificial Intelligence and Signal Processing Conference (AISP). IEEE, 2017.
 
 # PSO Fuzzy-Expert System for PhD Candidate Evaluation
-
 ## Overview
 This project implements a Fuzzy-Expert System integrated with Particle Swarm Optimization (PSO) to automate the evaluation and decision-making process for PhD candidate admissions based on NOET (National Organization of Educational Testing) measures. The system aims to reduce human error and improve the efficiency of the decision-making process in educational settings.
 ![image](https://github.com/user-attachments/assets/e0b9296b-c0a6-4763-b668-2b3b51611eb7)
-
 
 ## Key Concepts
 ### Fuzzy-Expert Systems
@@ -22,3 +23,6 @@ PSO is a computational method that optimizes a problem by iteratively trying to 
 ### Integration of PSO and Fuzzy Logic
 In this system, PSO is used to optimize the membership functions and rule base of the fuzzy system based on historical data and expert inputs. This helps in accurately classifying candidates into 'accept', 'reject', or 'waitlist' categories based on their scores and other criteria.
 ![image](https://github.com/user-attachments/assets/ff25e1c8-2898-4880-9153-cae115f7d505)
+
+- ## DOI:
+- https://doi.org/10.1109/AISP.2017.8324116
