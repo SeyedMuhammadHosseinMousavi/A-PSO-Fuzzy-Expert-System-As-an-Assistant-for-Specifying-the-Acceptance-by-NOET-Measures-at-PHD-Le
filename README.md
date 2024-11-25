@@ -17,7 +17,7 @@ Fuzzy-Expert Systems are decision-making systems incorporating fuzzy logic to ha
 
 ### Particle Swarm Optimization (PSO)
 PSO is a computational method that optimizes a problem by iteratively trying to improve a candidate solution with regard to a given measure of quality. It solves a problem by having a population of candidate solutions, here dubbed particles, and moving these particles around in the search-space according to simple mathematical formulae over the particle's position and velocity.
-![image](https://github.com/user-attachments/assets/f362f586-337d-4f99-8cef-aa2f651a1538)
+![image](https://github.com/user-attachments/assets/ae5a8925-070f-4692-970a-7971c8c0a174)
 
 ### Integration of PSO and Fuzzy Logic
 In this system, PSO is used to optimize the membership functions and rule base of the fuzzy system based on historical data and expert inputs. This helps in accurately classifying candidates into 'accept', 'reject', or 'waitlist' categories based on their scores and other criteria.
